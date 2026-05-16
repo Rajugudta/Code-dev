@@ -1,0 +1,6 @@
+{
+  "name": "Code dev",
+  "description": "A complete AI-powered learning app for engineering students featuring personalized roadmaps, curated free lectures, AI voice tutor, coding practice, and mock interviews.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
